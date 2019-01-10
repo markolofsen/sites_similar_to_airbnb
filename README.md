@@ -9,10 +9,12 @@ Attention to Airbnb homeowners! Save time and money with new Airbnb Assistant. G
 
 List of sites similar to Airbnb. Free script Airbnb + CRM and NO any fees.
 
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
+
 <hr />
 
-## Exact copy of Airbnb! Setup in 5 minutes!
-## <a href="https://demo.estate.im">Demo website</a>
+### Exact copy of Airbnb! Setup in 5 minutes!
+### <a href="https://demo.estate.im">Demo website</a>
 
 ### AIrbnb features
 * Import apartments from Airbnb (<a href="https://estate.im/">Demo import</a>)
@@ -32,10 +34,13 @@ List of sites similar to Airbnb. Free script Airbnb + CRM and NO any fees.
 * Google Analytics, Yandex Metrika.
 * 24/7 support.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
 
 <hr />
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Library name = sites_similar_to_airbnb <br />
 Title = Sites similar to Airbnb <br />
 Keywords = airbnb clone script estate wordpress site theme rental software python django, sites similar airbnb <br />
